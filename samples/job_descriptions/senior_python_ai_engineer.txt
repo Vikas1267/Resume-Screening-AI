@@ -1,0 +1,15 @@
+Senior Python & AI Engineer
+
+We are looking for a Senior Python & AI Engineer with 4+ years of experience building scalable NLP and machine learning systems.
+
+Required Skills:
+- Strong proficiency in Python, SQL, and REST APIs (Flask or FastAPI)
+- Hands-on experience with NLP, Scikit-learn, NLTK or spaCy, and HuggingFace Transformers
+- Experience with PyTorch or TensorFlow, RAG, and LLMs
+- Solid understanding of Docker, Kubernetes, AWS, CI/CD, and PostgreSQL
+- Familiarity with Git, Unit Testing (pytest), and Agile/Scrum workflows
+
+Responsibilities:
+- Design and deploy production ML/NLP pipelines and document parsing services
+- Optimize TF-IDF, embedding search, and ranking algorithms
+- Collaborate with cross-functional teams to deliver reliable AI features

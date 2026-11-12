@@ -1,0 +1,21 @@
+Marcus Chen
+marcus.chen@email.com | 555-345-6789 | Seattle, WA
+
+PROFESSIONAL SUMMARY
+Full-Stack Software Engineer with 4+ years of experience building modern React and Node.js applications with Python backend integrations.
+
+TECHNICAL SKILLS
+Frontend: JavaScript, TypeScript, React, Next.js, HTML5, CSS3
+Backend: Node.js, Express.js, Python, Flask, REST API, GraphQL
+Databases & Cloud: PostgreSQL, MongoDB, Redis, Docker, AWS, CI/CD, Git, Jest, Agile
+
+WORK EXPERIENCE
+Senior Full-Stack Developer — CloudScale Systems (2021 - Present)
+- Architected responsive React + TypeScript dashboards and GraphQL/REST APIs in Node.js and Flask.
+- Managed PostgreSQL and Redis caching layers inside Docker containers on AWS.
+
+Software Engineer — WebCraft Studio (2019 - 2021)
+- Built Next.js e-commerce storefronts and automated CI/CD pipelines with GitHub Actions.
+
+EDUCATION
+B.S. in Software Engineering — University of Washington (2015 - 2019)

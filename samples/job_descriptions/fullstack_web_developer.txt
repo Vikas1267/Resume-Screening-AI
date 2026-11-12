@@ -1,0 +1,10 @@
+Full-Stack Web Developer
+
+Seeking a Full-Stack Web Developer with 3+ years of experience building responsive web applications.
+
+Required Skills:
+- Frontend: JavaScript, TypeScript, React, Next.js, HTML5, CSS3
+- Backend: Node.js, Express.js, or Python (Django / Flask), REST API, GraphQL
+- Databases: PostgreSQL, MongoDB, Redis
+- DevOps: Docker, Git, CI/CD, AWS
+- Agile/Scrum and Unit Testing (Jest or pytest)

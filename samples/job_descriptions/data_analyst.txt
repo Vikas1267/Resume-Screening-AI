@@ -1,0 +1,9 @@
+Data Analyst
+
+Looking for a detail-oriented Data Analyst with 2+ years of experience turning raw data into actionable business insights.
+
+Required Skills:
+- SQL, Python (Pandas, NumPy, SciPy), and Statistics (A/B Testing, Hypothesis Testing)
+- Data Visualization with Tableau, Power BI, Matplotlib, or Seaborn
+- ETL pipelines, BigQuery or Snowflake, and PostgreSQL
+- Strong Communication and Problem Solving skills

@@ -1,0 +1,20 @@
+David Kim
+david.kim@email.com | 555-654-3210 | Boston, MA
+
+OBJECTIVE
+Recent Computer Science graduate seeking an entry-level Software Engineering or Backend role.
+
+SKILLS
+Languages: Python, Java, C++, SQL, HTML5, CSS3
+Tools: Git, Linux, MySQL, Flask, Unit Testing
+
+EXPERIENCE
+Software Engineering Intern — TechStart (Summer 2025)
+- Assisted in building internal REST API endpoints using Python and Flask.
+- Wrote unit tests and fixed bugs in MySQL queries.
+
+PROJECTS
+- Campus Event Finder: Built a web app using Flask, HTML5, CSS3, and SQLite.
+
+EDUCATION
+B.S. in Computer Science — Boston University (2022 - 2026)
